@@ -13,4 +13,5 @@ https://www.mrtechx.com/2017/10/funny-commands-of-termux.html
 https://www.learntermux.tech/2020/01/how-to-play-games-in-Termux-2020.html  
 https://www.techncyber.com/2017/09/hacking-with-termux-app.html  
 https://www.darkhackerworld.com/2020/07/termux-commands-list.html  
+https://papy-tux.legtux.org/doc1307/index.html    
 https://papy-tux.legtux.org/doc1307/index.html  
