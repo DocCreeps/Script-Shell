@@ -15,3 +15,6 @@ https://www.techncyber.com/2017/09/hacking-with-termux-app.html
 https://www.darkhackerworld.com/2020/07/termux-commands-list.html  
 https://papy-tux.legtux.org/doc1307/index.html    
 https://papy-tux.legtux.org/doc1307/index.html  
+
+https://www.learntermux.tech/2020/10/Termux-Secret-Commands.html  
+https://www.blogmagz.com/2020/06/tricks-and-popular-termux-hacking-tools.html  
