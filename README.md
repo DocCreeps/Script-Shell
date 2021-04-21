@@ -19,3 +19,4 @@ https://papy-tux.legtux.org/doc1307/index.html
 
 https://www.learntermux.tech/2020/10/Termux-Secret-Commands.html  
 https://www.blogmagz.com/2020/06/tricks-and-popular-termux-hacking-tools.html  
+https://linux.goffinet.org/administration/scripts-shell/
