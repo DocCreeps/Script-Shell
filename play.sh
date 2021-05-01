@@ -1,7 +1,7 @@
 #!bin/bash
 
 echo "Bienvenue dans la liste des music :"
-cd ../storage/music/youtubedl
+cd ../storage/youtubedl
 
 ls
 
