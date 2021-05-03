@@ -23,3 +23,7 @@ https://papy-tux.legtux.org/doc1307/index.html
 https://www.learntermux.tech/2020/10/Termux-Secret-Commands.html  
 https://www.blogmagz.com/2020/06/tricks-and-popular-termux-hacking-tools.html  
 https://linux.goffinet.org/administration/scripts-shell/
+
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjFiKjJi63wAhUNmRQKHY6DD2YQFjABegQIBxAD&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Flinux%2Fcomments%2Fcxu5z2%2Fa_collection_of_funny_bash_scripts%2F&usg=AOvVaw3cwoLk4EgKanx1hiFb3vRD  
+
+https://brettterpstra.com/series/bash-fun/  
