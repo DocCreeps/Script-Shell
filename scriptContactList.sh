@@ -1,3 +1,3 @@
  ​#!​/bin/bash
-termux-contact-list
+termux-contact-list[9]
 
