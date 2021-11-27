@@ -1,3 +1,3 @@
 #!/bin/bash
-termux-contact-list[9]
+termux-contact-list['name'][9]['number'][9]
 
