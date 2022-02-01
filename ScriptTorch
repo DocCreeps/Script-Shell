@@ -1,3 +1,16 @@
 #!/bin/bash
+read -p "1: Allumer la torche/ 2: Eteindre la torche  :" Choix
+
+if [ Choix = 1]
+then
+        echo "Allumage de la torche"
+        termux-torch on
+elif  [ Choix = 2]
+then 
+ echo "extinction de la torche de la torche"
+        termux-torch off
+else
+        echo "La torche est éteinte"
+fi
 termux-torch on
 
